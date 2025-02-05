@@ -1,6 +1,6 @@
 # Mariana Clarice
 
-**Desenvolvedora Front-end**
+**`Desenvolvedora Front-end`**
 
 Me chamo Mariana Clarice, tenho 20 anos e sou natural de Recife. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
