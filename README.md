@@ -44,6 +44,14 @@ Me chamo Mariana Clarice, tenho 20 anos e sou natural de Recife. Atualmente, est
 />
 <img 
     align="left" 
+    alt="Figma" 
+    title="Figma"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" 
+/>
+<img 
+    align="left" 
     alt="React"
     title="React" 
     width="30px" 
