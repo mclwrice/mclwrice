@@ -5,7 +5,7 @@
 Me chamo Mariana Clarice, tenho 20 anos e sou natural de Recife. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
 
 <p align="left">
-    <a href="https://github.com/mclwrice?tab=followers">
+    <a href="https://github.com/maclarice?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
